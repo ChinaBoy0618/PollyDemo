@@ -1,0 +1,21 @@
+D:\atword\VS\AopSample\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.deps.json
+D:\atword\VS\AopSample\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.runtimeconfig.json
+D:\atword\VS\AopSample\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.runtimeconfig.dev.json
+D:\atword\VS\AopSample\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.dll
+D:\atword\VS\AopSample\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.csproj.CoreCompileInputs.cache
+D:\atword\VS\AopSample\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.AssemblyInfoInputs.cache
+D:\atword\VS\AopSample\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.AssemblyInfo.cs
+D:\atword\VS\AopSample\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.pdb
+D:\atword\VS\AopSample\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.dll
+D:\atword\VS\AopSample\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.pdb
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.deps.json
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.runtimeconfig.json
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.runtimeconfig.dev.json
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.dll
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\bin\Debug\netcoreapp2.1\SubstituteSample.pdb
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.csprojAssemblyReference.cache
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.csproj.CoreCompileInputs.cache
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.AssemblyInfoInputs.cache
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.AssemblyInfo.cs
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.dll
+C:\Users\wangzhanguo\Documents\Tencent Files\826679571\FileRecv\SubstituteSample\obj\Debug\netcoreapp2.1\SubstituteSample.pdb
