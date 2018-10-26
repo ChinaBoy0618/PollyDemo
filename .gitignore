@@ -3,3 +3,5 @@
 ################################################################################
 
 /Blazor/BlazorDemo/BlazorDemo/bin/Debug/netstandard2.0
+/Blazor/BlazorDemo/BlazorDemo/obj
+/Polly/Retry/obj/Release/netcoreapp2.1

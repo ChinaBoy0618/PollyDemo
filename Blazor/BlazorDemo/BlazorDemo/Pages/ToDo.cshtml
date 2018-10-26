@@ -1,0 +1,42 @@
+﻿@page "/todo"
+
+<h1>Todo (@todos.Where(todo => !todo.IsDone).Count())</h1>
+
+<li class="nav-item px-3">
+	<NavLink class="nav-link" href="todo">
+		<span class="oi oi-list-rich" aria-hidden="true"></span> Todo
+	</NavLink>
+</li>
+
+<ul>
+	@foreach (var todo in todos)
+	{
+		<li>
+			<input type="checkbox" bind="@todo.IsDone" />
+			<input bind="@todo.Title" />
+		</li>
+	}
+</ul>
+<input placeholder="Something todo" />
+<button>Add todo</button>
+
+@functions{
+	IList<TodoItem> todos = new List<TodoItem>();
+
+	string newTodo;
+
+	void AddTodo()
+	{
+		if (!string.IsNullOrWhiteSpace(newTodo))
+		{
+			todos.Add(new TodoItem { Title = newTodo });
+			newTodo = string.Empty;
+		}
+	}
+
+	public class TodoItem
+	{
+		public string Title { get; set; }
+		public bool IsDone { get; set; }
+	}
+}
