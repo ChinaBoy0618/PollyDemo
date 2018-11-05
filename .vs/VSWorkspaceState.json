@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Blazor",
-    "\\SubstituteSample"
+    "\\Polly",
+    "\\Polly\\Retry"
   ],
-  "SelectedNode": "\\Blazor\\Blazor.sln",
+  "SelectedNode": "\\Polly\\README.md",
   "PreviewInSolutionExplorer": false
 }
