@@ -1,0 +1,6 @@
+E:\myprojects\Git\PollyDemo\Orleans\Grains\bin\Debug\netstandard2.0\Grains.deps.json
+E:\myprojects\Git\PollyDemo\Orleans\Grains\bin\Debug\netstandard2.0\Grains.dll
+E:\myprojects\Git\PollyDemo\Orleans\Grains\obj\Debug\netstandard2.0\Grains.csprojAssemblyReference.cache
+E:\myprojects\Git\PollyDemo\Orleans\Grains\obj\Debug\netstandard2.0\Grains.csproj.CoreCompileInputs.cache
+E:\myprojects\Git\PollyDemo\Orleans\Grains\obj\Debug\netstandard2.0\Grains.AssemblyInfoInputs.cache
+E:\myprojects\Git\PollyDemo\Orleans\Grains\obj\Debug\netstandard2.0\Grains.AssemblyInfo.cs

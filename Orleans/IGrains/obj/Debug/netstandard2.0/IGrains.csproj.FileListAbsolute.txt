@@ -1,0 +1,6 @@
+E:\myprojects\Git\PollyDemo\Orleans\IGrains\bin\Debug\netstandard2.0\IGrains.deps.json
+E:\myprojects\Git\PollyDemo\Orleans\IGrains\bin\Debug\netstandard2.0\IGrains.dll
+E:\myprojects\Git\PollyDemo\Orleans\IGrains\obj\Debug\netstandard2.0\IGrains.csprojAssemblyReference.cache
+E:\myprojects\Git\PollyDemo\Orleans\IGrains\obj\Debug\netstandard2.0\IGrains.csproj.CoreCompileInputs.cache
+E:\myprojects\Git\PollyDemo\Orleans\IGrains\obj\Debug\netstandard2.0\IGrains.AssemblyInfoInputs.cache
+E:\myprojects\Git\PollyDemo\Orleans\IGrains\obj\Debug\netstandard2.0\IGrains.AssemblyInfo.cs

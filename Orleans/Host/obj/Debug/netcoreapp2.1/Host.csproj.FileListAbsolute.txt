@@ -1,0 +1,8 @@
+E:\myprojects\Git\PollyDemo\Orleans\Host\bin\Debug\netcoreapp2.1\Host.deps.json
+E:\myprojects\Git\PollyDemo\Orleans\Host\bin\Debug\netcoreapp2.1\Host.runtimeconfig.json
+E:\myprojects\Git\PollyDemo\Orleans\Host\bin\Debug\netcoreapp2.1\Host.runtimeconfig.dev.json
+E:\myprojects\Git\PollyDemo\Orleans\Host\bin\Debug\netcoreapp2.1\Host.dll
+E:\myprojects\Git\PollyDemo\Orleans\Host\obj\Debug\netcoreapp2.1\Host.csprojAssemblyReference.cache
+E:\myprojects\Git\PollyDemo\Orleans\Host\obj\Debug\netcoreapp2.1\Host.csproj.CoreCompileInputs.cache
+E:\myprojects\Git\PollyDemo\Orleans\Host\obj\Debug\netcoreapp2.1\Host.AssemblyInfoInputs.cache
+E:\myprojects\Git\PollyDemo\Orleans\Host\obj\Debug\netcoreapp2.1\Host.AssemblyInfo.cs
